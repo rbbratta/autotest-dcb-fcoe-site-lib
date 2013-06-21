@@ -1,0 +1,1000 @@
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01ff4fff pgpct:25,75,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11011000
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:0123f56f pgpct:45,30,5,0,0,20,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:85,15,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234f67 pgpct:30,0,55,15,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012345f7 pgpct:85,5,5,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:66676776 pgpct:0,0,0,0,0,0,25,75
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:46646644 pgpct:0,0,0,0,20,0,80,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01fff5ff pgpct:90,10,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:12022111 pgpct:15,5,80,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:0123f56f pgpct:40,35,5,15,0,0,5,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:02002444 pgpct:5,0,5,0,90,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:66366633 pgpct:0,0,0,5,0,0,95,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:5,15,30,50,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:06142603 pgpct:5,20,5,5,10,0,55,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:65,35,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:f1234f6f pgpct:0,75,5,20,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:00101110
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:5,85,10,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:0123456f pgpct:10,50,25,5,0,5,5,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:13352325 pgpct:0,15,25,25,0,35,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:11011110
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:40,30,20,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:44444444 pgpct:0,0,0,0,100,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:02006026 pgpct:5,0,30,0,0,0,65,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:00000101
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:00262221 pgpct:10,45,35,0,0,0,10,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:5,25,65,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:60,20,15,0,0,5,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:10110110
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:10001111 pgpct:5,95,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11011010
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234f67 pgpct:0,50,10,35,5,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:11000110
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012345ff pgpct:25,20,20,25,10,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:0123f5f7 pgpct:25,5,15,30,0,20,0,5
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:45511115 pgpct:0,5,0,0,5,90,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01fff567 pgpct:95,5,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:01010001
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:25725070 pgpct:35,0,5,0,0,15,0,45
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:0123f5ff pgpct:40,60,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11111010
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:55,20,25,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:00011000
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:75,10,10,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:55,5,20,5,10,5,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:012f4f6f pgpct:35,60,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:66666666 pgpct:0,0,0,0,0,0,100,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:012ff5f7 pgpct:55,25,0,0,0,20,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01f34fff pgpct:65,35,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:5,40,15,30,5,0,5,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:75250720 pgpct:10,0,10,0,0,5,0,75
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:10000100
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:22730041 pgpct:5,10,20,5,5,0,0,55
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:64006604 pgpct:35,0,0,0,50,0,15,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234ff7 pgpct:65,0,20,15,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:32365531 pgpct:0,5,10,10,0,10,65,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:01101001
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:15,45,0,10,5,15,10,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:56055645 pgpct:5,0,0,0,30,55,10,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:0123456f pgpct:25,45,15,0,10,0,5,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:11111111
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11011011
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:66655555 pgpct:0,0,0,0,0,50,50,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:22066014 pgpct:5,5,5,0,30,0,55,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:33333333 pgpct:0,0,0,100,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:0,15,55,25,5,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234fff pgpct:15,45,15,25,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:77720705 pgpct:45,0,25,0,0,20,0,10
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:77777777 pgpct:0,0,0,0,0,0,0,100
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:70,20,5,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:20,0,35,35,10,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:30,60,10,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:40,60,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:11110011
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:01100100
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01f3ff6f pgpct:65,25,0,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:80,0,20,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10110010
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:90,0,5,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:11116166 pgpct:0,10,0,0,0,0,90,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11110000
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234ff7 pgpct:30,5,0,50,15,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11110101
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:01010011
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:80,0,20,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012ff5ff pgpct:40,15,45,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:56667575 pgpct:0,0,0,0,0,10,5,85
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:33303030 pgpct:5,0,0,95,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:22402006 pgpct:10,0,5,0,40,0,45,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:10010111
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:10001101
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:70,25,0,0,0,5,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:22525522 pgpct:0,0,5,0,0,95,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:67677776 pgpct:0,0,0,0,0,0,30,70
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:00000011
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234f6f pgpct:30,20,10,10,30,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:0,90,0,5,0,0,5,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:76041250 pgpct:5,10,5,0,5,50,20,5
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:27650012 pgpct:5,15,5,0,0,10,45,20
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:00011111
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:20,5,30,15,30,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:20,55,10,15,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:67767667 pgpct:0,0,0,0,0,0,5,95
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:00011001
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:27564464 pgpct:0,0,5,0,5,40,35,15
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:50544547 pgpct:20,0,0,0,10,65,0,5
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:10010010
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:37275465 pgpct:0,0,5,5,15,15,25,35
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:75,5,15,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:50,10,25,5,10,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11001001
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:00000010
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:25,70,0,0,5,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:90,0,0,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:30411144 pgpct:5,5,0,10,80,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:35,30,5,30,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:11100001
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:56665526 pgpct:0,0,5,0,0,45,50,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:75,0,10,5,10,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:03400222 pgpct:5,0,25,15,55,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:85,5,10,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:90,5,0,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:50,30,0,20,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:01100000
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012fff6f pgpct:50,40,5,0,0,0,5,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:45,35,0,0,15,0,5,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:20,0,55,20,5,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:55115115 pgpct:0,60,0,0,0,40,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:67215526 pgpct:0,10,10,0,0,30,45,5
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:75,20,0,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:55555555 pgpct:0,0,0,0,0,100,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:17231223 pgpct:0,5,20,35,0,0,0,40
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10011101
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:15,40,0,45,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10010100
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:0123f56f pgpct:5,15,45,5,0,25,5,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:0123f567 pgpct:5,95,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:10,55,25,10,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:10111000
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:15,5,80,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:01110110
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:80,0,10,10,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:11010110
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:12222112 pgpct:0,60,40,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:25,75,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:33223223 pgpct:0,0,15,85,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:20004242 pgpct:5,0,20,0,75,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:54574757 pgpct:0,0,0,0,5,30,0,65
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:21111121 pgpct:0,5,95,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:01000111
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:75,20,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:0123f56f pgpct:45,10,35,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:57676750 pgpct:25,0,0,0,0,20,5,50
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:61036660 pgpct:10,5,0,5,0,0,80,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:50,15,30,0,5,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:76747547 pgpct:0,0,0,0,10,5,10,75
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10111001
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:15,85,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:07202100 pgpct:5,20,50,0,0,0,0,25
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10110010
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234f6f pgpct:40,15,20,10,15,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:07667460 pgpct:5,0,0,0,5,0,15,75
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10010011
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:30254030 pgpct:10,0,10,15,60,5,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:11111111 pgpct:0,100,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:0123456f pgpct:65,30,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01f34fff pgpct:35,55,0,5,5,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:37571311 pgpct:0,5,0,10,0,20,0,65
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:50,25,10,5,10,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:00011110
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:75,15,5,0,0,5,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:25,35,35,0,5,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11111010
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:55,20,25,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:30,5,65,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01ff4fff pgpct:65,20,0,0,15,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01f34f67 pgpct:75,10,0,0,5,0,5,5
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012f4fff pgpct:75,5,15,0,5,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:10010100
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234ff7 pgpct:60,5,5,30,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:0123fff7 pgpct:75,5,15,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:30,15,55,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:10001100
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:30,15,55,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:0123ffff pgpct:40,25,30,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01f3f567 pgpct:35,65,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:35,35,30,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:34046230 pgpct:5,0,5,20,5,0,65,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:45,40,5,0,10,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234f67 pgpct:65,20,5,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:44774777 pgpct:0,0,0,0,5,0,0,95
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012fffff pgpct:40,15,45,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:10101100
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:95,0,0,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:64430666 pgpct:5,0,0,15,25,0,55,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:012ff5f7 pgpct:25,55,20,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:00001001
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012f4fff pgpct:10,10,70,0,10,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:90,10,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:06033034 pgpct:5,0,0,30,20,0,45,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:01101011
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:45,55,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:66660000 pgpct:10,0,0,0,0,0,90,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:5,0,65,25,5,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:95,5,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:10010000
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:43114165 pgpct:0,10,0,15,10,30,35,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:95,5,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:00101111
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012345ff pgpct:35,45,10,0,10,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:00111010
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:22200111 pgpct:5,30,65,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:30,10,25,20,10,0,5,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:95,0,5,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11010110
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:50,40,10,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:5,55,40,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11100011
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:65,25,10,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:33330303 pgpct:15,0,0,85,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:0123f56f pgpct:10,80,10,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:00101111
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:20,15,55,5,5,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234f67 pgpct:90,10,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:01101111
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234f6f pgpct:50,35,15,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10011000
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:00100011
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:40,45,10,0,5,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:00111011
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:0123ff67 pgpct:65,0,5,30,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:80,10,0,0,10,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:55171010 pgpct:10,10,0,0,0,70,0,10
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:01110010
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:95,0,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:45,50,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012ff56f pgpct:90,5,0,0,0,0,5,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:77233322 pgpct:0,0,15,40,0,0,0,45
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:0,30,70,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:01011100
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:40664410 pgpct:15,35,0,0,10,0,40,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:95,5,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01f3ff6f pgpct:95,5,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:47671447 pgpct:0,5,0,0,10,0,25,60
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:10111001
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01ffffff pgpct:30,70,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:80,20,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:24041041 pgpct:5,10,5,0,80,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:11100011
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234f67 pgpct:70,25,5,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10110101
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:20,60,0,0,5,15,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:34141373 pgpct:0,5,0,10,25,0,0,60
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:012f45f7 pgpct:25,60,15,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:23531352 pgpct:0,5,5,5,0,85,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:11111111 pgpct:0,100,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:80,5,10,5,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10111010
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:31007556 pgpct:5,10,0,10,0,10,60,5
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:55,10,10,5,10,0,0,10
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:80,15,0,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:55550005 pgpct:5,0,0,0,0,95,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:42701010 pgpct:5,5,10,0,55,0,0,25
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:10010001
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10101100
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:f123ffff pgpct:0,90,5,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012ff567 pgpct:85,0,5,0,0,5,5,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:75,20,0,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:0123456f pgpct:5,75,0,5,10,5,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:77333565 pgpct:0,0,0,20,0,10,15,55
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:65,20,5,0,5,5,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10110001
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:10,0,35,15,20,0,15,5
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:0123ffff pgpct:60,10,25,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:70,15,0,10,5,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:01010101
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:10110001
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01f34ff7 pgpct:95,5,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:35,5,60,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:54354354 pgpct:0,0,0,5,5,90,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:25,15,25,0,15,10,10,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:66666666 pgpct:0,0,0,0,0,0,100,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:04507500 pgpct:10,0,0,0,20,5,0,65
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:5,45,40,10,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:10110110
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:33333333 pgpct:0,0,0,100,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:44444444 pgpct:0,0,0,0,100,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:01010110
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:00000000 pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:35107776 pgpct:10,5,0,50,0,20,5,10
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:71737711 pgpct:0,30,0,35,0,0,0,35
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:012f456f pgpct:25,50,5,0,5,5,10,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:25550223 pgpct:5,0,20,55,0,20,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:00100101
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:55,20,20,0,0,0,5,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:55734006 pgpct:15,0,0,5,10,10,15,45
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:11001011
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:40,45,10,0,5,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:012345f7 pgpct:35,50,5,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:66666666 pgpct:0,0,0,0,0,0,100,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01ffffff pgpct:90,10,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:45,35,10,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:95,5,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:11111001
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:60,30,5,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:25,0,50,10,15,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:00100110
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:73475347 pgpct:0,0,0,5,5,80,0,10
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:0123f5ff pgpct:70,15,10,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:85,0,0,0,10,5,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:00111100
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:5,0,30,20,5,5,25,10
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:77777777 pgpct:0,0,0,0,0,0,0,100
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:01100101
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:76377766 pgpct:0,0,0,20,0,0,65,15
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:30,15,0,45,10,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:00100100
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:40,35,20,0,5,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:01101000
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:5,30,10,5,20,30,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:10101110
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:70,10,10,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:25,30,15,5,5,0,20,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012f4fff pgpct:75,20,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234f67 pgpct:5,80,5,5,0,0,5,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:01000101
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:10101111
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:71774522 pgpct:0,5,10,0,10,30,0,45
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:95,0,0,0,0,0,5,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:012ff5ff pgpct:70,5,20,0,0,5,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:73207460 pgpct:5,0,5,15,5,0,15,55
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10000001
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234f67 pgpct:45,5,40,5,5,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:43433344 pgpct:0,0,0,15,85,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:11101010
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:40330033 pgpct:5,0,0,10,85,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:10,60,10,5,10,0,0,5
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:0123fff7 pgpct:10,60,15,15,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:42225772 pgpct:0,0,30,0,5,20,0,45
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:00111011
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:00101000
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:11111011
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:0f2fff6f pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:11001111
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:0123f5ff pgpct:65,10,15,5,0,5,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:00101011
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:11101111
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:44444444 pgpct:0,0,0,0,100,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:30,50,10,5,0,5,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234ff7 pgpct:30,5,45,10,10,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:77173030 pgpct:5,5,0,70,0,0,0,20
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:44444444 pgpct:0,0,0,0,100,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:11100110
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:27171217 pgpct:0,5,40,0,0,0,0,55
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:15,35,0,45,5,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:11101010
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01f3f5ff pgpct:70,10,0,10,0,10,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:10001010
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:0123456f pgpct:35,65,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:42433424 pgpct:0,0,10,25,65,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012345ff pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:15,25,15,45,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:63323220 pgpct:5,0,10,25,0,0,60,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:65,30,5,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:10001010
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:01001100
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:45,10,20,0,0,25,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:22272272 pgpct:0,0,95,0,0,0,0,5
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01f3ffff pgpct:75,20,0,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:f1234567 pgpct:0,40,5,30,25,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01240740 pgpct:10,5,5,0,15,0,0,65
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:63355366 pgpct:0,0,0,25,0,30,45,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10100100
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:57554224 pgpct:0,0,10,0,15,50,0,25
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:65361301 pgpct:5,5,0,20,0,10,60,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:10,25,55,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:77777777 pgpct:0,0,0,0,0,0,0,100
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:012345f7 pgpct:10,5,80,0,0,5,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:75,10,15,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10011101
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:11111111 pgpct:0,100,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:55,0,20,20,5,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:36063035 pgpct:15,0,0,15,0,10,60,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:0123f567 pgpct:0,45,45,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:66066055 pgpct:5,0,0,0,0,5,90,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:5,75,0,10,10,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:01111000
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:00100010
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:05417422 pgpct:5,15,5,0,5,55,0,15
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01f3fff7 pgpct:95,5,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:40,50,5,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:012f4ff7 pgpct:45,10,45,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11010010
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11100110
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:11000111
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012345f7 pgpct:5,40,55,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012f4fff pgpct:60,5,25,0,10,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:22222222 pgpct:0,0,100,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:11110011
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234f67 pgpct:10,0,80,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:33333333 pgpct:0,0,0,100,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012345f7 pgpct:35,60,5,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:01101110
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01f34ff7 pgpct:75,10,0,10,5,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:10011000
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:75,25,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:10100111
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:5,70,15,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:60,5,20,10,5,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01f3ff67 pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012ff5f7 pgpct:70,25,5,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:00111010
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:35,45,15,0,0,5,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:00111111
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:11761761 pgpct:0,30,0,0,0,0,45,25
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:40,35,0,15,5,5,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:012f45f7 pgpct:80,10,10,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:0,55,10,0,0,35,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:56155665 pgpct:0,15,0,0,0,5,80,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:25,25,45,0,5,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:90,0,0,5,5,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:22222222 pgpct:0,0,100,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:00052262 pgpct:10,0,35,0,0,30,25,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012fffff pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:22772272 pgpct:0,0,5,0,0,0,0,95
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:26656163 pgpct:0,5,15,25,0,10,45,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:0123456f pgpct:35,40,0,10,10,5,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:66202023 pgpct:40,0,15,20,0,0,25,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:35340555 pgpct:5,0,0,5,30,60,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:10100001
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:0f234f67 pgpct:0,0,0,100,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01313020 pgpct:5,10,40,45,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:51343563 pgpct:0,5,0,10,10,40,35,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:65234737 pgpct:0,0,5,5,5,15,50,20
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:15,10,50,10,15,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012345ff pgpct:80,0,10,0,5,5,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:22222222 pgpct:0,0,100,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10101101
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:0f23ffff pgpct:55,0,25,20,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:11111101
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:10001011
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:22200221 pgpct:5,90,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:012fff6f pgpct:50,45,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:85,5,5,0,5,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10100011
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:00110111
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:00110001
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:44325223 pgpct:0,0,10,10,25,55,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:11010110
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:11111000
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:50,0,0,50,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:44444444 pgpct:0,0,0,0,100,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:55,10,20,5,0,10,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:60,20,0,15,5,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11000111
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01ff4fff pgpct:90,10,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:25,75,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:36706660 pgpct:10,0,0,5,0,0,30,55
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012f4f67 pgpct:95,5,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:10001100
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:66654755 pgpct:0,0,0,0,10,5,45,40
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:22222222 pgpct:0,0,100,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:60,5,15,5,15,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11110010
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:10110000
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012345ff pgpct:55,0,30,15,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:0123ffff pgpct:40,40,5,15,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:61116116 pgpct:0,70,0,0,0,0,30,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:00101101
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:012ff5ff pgpct:90,5,5,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:01110100
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:63466176 pgpct:0,10,0,15,20,0,15,40
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:56555773 pgpct:0,0,0,15,0,15,35,35
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:55,15,30,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:012fff6f pgpct:25,70,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012f45f7 pgpct:10,70,15,0,0,5,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:15474347 pgpct:0,10,0,25,25,5,0,35
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11101111
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:5,10,55,20,10,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:10110000
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:45,0,15,10,30,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:55556565 pgpct:0,0,0,0,0,30,70,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:44224462 pgpct:0,0,10,0,50,0,40,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:012f45f7 pgpct:70,10,0,0,10,5,0,5
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:00507575 pgpct:5,0,0,0,0,60,0,35
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10101000
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:35533555 pgpct:0,0,0,5,0,95,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01ff4ff7 pgpct:75,25,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:53360566 pgpct:5,0,0,10,0,10,75,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10100110
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012ff56f pgpct:85,10,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:60,5,30,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:52725242 pgpct:0,0,10,0,5,25,0,60
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:012345f7 pgpct:20,70,10,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:00000001
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:5,70,5,5,10,0,5,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:77777777 pgpct:0,0,0,0,0,0,0,100
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:11111101
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:75,25,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10001110
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:00110111
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:63662332 pgpct:0,0,75,5,0,0,20,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:66406405 pgpct:10,0,0,0,10,70,10,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234ff7 pgpct:30,15,20,10,25,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:11110110
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:60,5,15,10,5,5,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:50,30,0,0,15,5,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:11101000
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:40,45,5,5,5,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:95,0,0,0,0,0,5,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012fffff pgpct:70,15,15,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:11010111
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:01000010
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:60,5,10,0,25,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:60035367 pgpct:5,0,0,5,0,35,30,25
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:90,0,10,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01f34fff pgpct:75,15,0,5,5,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:11110110
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:11111111 pgpct:0,100,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01ffffff pgpct:90,10,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:0123fff7 pgpct:25,10,55,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234f67 pgpct:25,35,30,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:20,55,5,10,0,10,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234fff pgpct:35,50,10,0,5,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:66444744 pgpct:0,0,0,0,15,0,75,10
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:40012352 pgpct:5,25,20,25,10,15,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:0,70,10,0,0,20,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:44466446 pgpct:0,0,0,0,30,0,70,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:00111100
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:77443444 pgpct:0,0,0,10,65,0,0,25
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:62516025 pgpct:5,5,40,0,0,30,20,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:42402024 pgpct:20,0,25,0,55,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:57737001 pgpct:5,10,0,10,0,5,0,70
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:10001010
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01ffffff pgpct:75,25,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012f456f pgpct:5,75,15,0,5,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:80,20,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:15,10,35,15,5,0,20,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:11010110
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:36003330 pgpct:5,0,0,5,0,0,90,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012345f7 pgpct:40,55,0,0,0,5,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:0123f5f7 pgpct:20,55,15,5,0,5,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:15,10,75,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:44741674 pgpct:0,15,0,0,30,0,30,25
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:80,10,0,5,5,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:00000000
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:11101100
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:11001111
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:03117142 pgpct:5,10,5,60,5,0,0,15
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:0f2ff5ff pgpct:75,0,25,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:10010001
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:11101111
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:00010001
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:0ff3fff7 pgpct:35,0,0,65,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012ff5ff pgpct:65,30,0,0,0,5,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:22222222 pgpct:0,0,100,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:15,60,0,10,10,5,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:01101011
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01f3ffff pgpct:90,10,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:95,5,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10110000
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:45,45,10,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:11464414 pgpct:0,10,0,0,5,0,85,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:0,55,40,0,0,0,5,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:10100110
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01f3f5ff pgpct:85,15,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10011001
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:10,55,10,25,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:31331111 pgpct:0,10,0,90,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:24424747 pgpct:0,0,20,0,20,0,0,60
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:02273557 pgpct:5,0,5,20,0,25,0,45
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:50502334 pgpct:5,0,25,5,15,50,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:11110100
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:00077007 pgpct:40,0,0,0,0,0,0,60
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:10111000
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:f12345f7 pgpct:0,60,10,5,15,5,0,5
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012fff67 pgpct:90,5,0,0,0,0,5,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:10,55,5,15,15,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:27735623 pgpct:0,0,5,5,0,5,45,40
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:00011010
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:10011100
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:0123f567 pgpct:30,60,0,0,0,10,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:35,60,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:5,15,40,30,5,0,5,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:61166111 pgpct:0,30,0,0,0,0,70,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:25,20,20,25,10,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234ff7 pgpct:0,75,25,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:00001111
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11010101
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01ffff6f pgpct:90,10,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:11111111 pgpct:0,100,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:90,0,10,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:15,40,10,10,5,0,10,10
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:11100001
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:50,0,30,20,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:10,70,10,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:0,40,30,15,5,0,0,10
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:00010111
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:36451055 pgpct:5,5,0,30,40,15,5,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:11011101
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:10101000
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:01000100
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:11467211 pgpct:0,5,5,0,50,0,5,35
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:11111101
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:00100110
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:44435333 pgpct:0,0,0,10,35,55,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012fffff pgpct:40,15,45,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:0,50,15,35,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01fff5ff pgpct:75,25,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:30,35,15,5,15,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:15702623 pgpct:5,10,5,5,0,5,10,60
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:55455335 pgpct:0,0,0,50,40,10,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:10000001
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:72703202 pgpct:10,0,5,10,0,0,0,75
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:00010010
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:50,45,0,0,0,0,5,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01f34567 pgpct:85,5,0,5,0,5,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:00001100
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01630721 pgpct:5,10,20,15,0,0,15,35
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:0123456f pgpct:5,60,15,5,5,10,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11110000
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11110111
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:01100000
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:47704474 pgpct:5,0,0,0,15,0,0,80
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:10110000
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:00100111
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:34344343 pgpct:0,0,0,5,95,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:0,40,10,40,0,10,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:55,0,35,5,0,0,5,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:01011110
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:00011010
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:40,0,45,10,5,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:11111111 pgpct:0,100,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:0f234567 pgpct:75,0,10,10,5,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:11011010
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:65,30,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012f4567 pgpct:60,15,25,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:62226662 pgpct:0,0,85,0,0,0,15,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10100011
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:55,0,30,10,0,5,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:41442152 pgpct:0,5,15,0,5,75,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:14101040 pgpct:65,25,0,0,10,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:11111110
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:00000000
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:01000010
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:35,40,20,0,5,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:012ff5ff pgpct:95,5,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:60206227 pgpct:5,0,20,0,0,0,70,5
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:55,5,10,30,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:66026216 pgpct:10,10,75,0,0,0,5,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:10011011
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:57517344 pgpct:0,5,0,10,30,25,0,30
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:01011000
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:65,15,20,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:00011110
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234f6f pgpct:45,15,5,15,15,0,5,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:0f23456f pgpct:55,0,20,10,0,15,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:16617711 pgpct:0,10,0,0,0,0,10,80
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:26474655 pgpct:0,0,5,0,5,5,30,55
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:11101110
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:55,30,0,15,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012f456f pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:0,40,60,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:40,40,5,10,0,0,5,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:5,35,45,10,0,5,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012f4fff pgpct:50,45,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:85,15,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:0f2ffff7 pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:11111111 pgpct:0,100,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:75,20,0,5,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11111001
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:0123ff6f pgpct:55,10,5,25,0,0,5,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:40,25,15,20,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:01001000
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012f4ff7 pgpct:75,25,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:50,15,10,10,15,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:20526561 pgpct:5,15,20,0,0,30,30,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:40,45,15,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:10,25,35,25,5,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:0,80,10,0,10,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:00101010
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:0f2ffff7 pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11110000
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:11100000
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:0f2ffff7 pgpct:95,0,5,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:00100100
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:13254150 pgpct:5,5,10,15,40,25,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:77777777 pgpct:0,0,0,0,0,0,0,100
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:95,0,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:30,60,0,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:25,50,15,0,0,5,0,5
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:00000000 pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:70,15,15,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:37744444 pgpct:0,0,0,30,25,0,0,45
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10001000
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:01110110
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:85,0,5,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:76617776 pgpct:0,25,0,0,0,0,10,65
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:60,15,20,0,5,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:77777776 pgpct:0,0,0,0,0,0,10,90
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:17711414 pgpct:0,5,0,0,35,0,0,60
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:01010000
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012f4567 pgpct:85,15,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:75,5,0,15,0,0,5,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:10111100
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:66666666 pgpct:0,0,0,0,0,0,100,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:66166116 pgpct:0,30,0,0,0,0,70,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234fff pgpct:80,10,5,0,5,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:55,45,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:25,50,0,5,0,0,15,5
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234f6f pgpct:10,50,30,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012345ff pgpct:15,60,5,10,5,5,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:10010011
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:14445514 pgpct:0,10,0,0,10,80,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:0f23456f pgpct:25,0,35,15,10,10,5,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:0123456f pgpct:20,30,30,5,5,5,5,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:00000000 pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:25000400 pgpct:5,0,10,0,45,40,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:0123f567 pgpct:30,60,10,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:012345f7 pgpct:40,35,5,5,15,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10010010
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:10,55,10,0,10,0,10,5
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234ff7 pgpct:30,35,35,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234f67 pgpct:80,20,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:80,20,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:24245662 pgpct:0,0,10,0,15,70,5,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:30433722 pgpct:5,0,15,30,45,0,0,5
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01f34567 pgpct:25,10,0,35,10,15,5,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:012f45f7 pgpct:50,10,35,0,5,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:35,65,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:46664446 pgpct:0,0,0,0,85,0,15,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:15156665 pgpct:0,5,0,0,0,5,90,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:80,0,15,0,0,5,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01ffffff pgpct:40,60,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:0123456f pgpct:55,30,0,5,10,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11010101
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:80,10,10,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:90,5,0,0,5,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:30,20,50,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:20200000 pgpct:10,0,90,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:0123456f pgpct:60,0,35,0,5,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012ff5ff pgpct:25,40,30,0,0,5,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:66644664 pgpct:0,0,0,0,30,0,70,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:10010000
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:23323061 pgpct:10,5,55,10,0,0,20,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:20,65,0,10,0,5,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:22462611 pgpct:0,5,20,0,10,0,65,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012f4567 pgpct:10,30,60,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:33333333 pgpct:0,0,0,100,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:65665655 pgpct:0,0,0,0,0,5,95,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:13531551 pgpct:0,20,0,25,0,55,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:60640051 pgpct:5,45,0,0,10,15,25,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:66666666 pgpct:0,0,0,0,0,0,100,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:01100101
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:44441744 pgpct:0,5,0,0,5,0,0,90
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:27606045 pgpct:25,0,20,0,5,25,15,10
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:70772202 pgpct:30,0,15,0,0,0,0,55
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:05550505 pgpct:95,0,0,0,0,5,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:11100001
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:5,0,85,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:30745535 pgpct:15,0,0,5,10,30,0,40
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:10000006 pgpct:40,10,0,0,0,0,50,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01ffffff pgpct:25,75,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:85,0,10,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:0123ff6f pgpct:80,15,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:012fff6f pgpct:45,50,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:14161211 pgpct:0,10,5,0,10,0,75,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:40,60,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:33312336 pgpct:0,5,10,15,0,0,70,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:5,50,10,30,0,5,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:f12f45ff pgpct:0,15,35,0,40,10,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:10110001
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012fffff pgpct:65,25,10,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:62444224 pgpct:0,0,5,0,65,0,30,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:0123456f pgpct:5,80,0,15,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:85,15,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01f345ff pgpct:45,20,0,35,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:65,25,5,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:0f234ff7 pgpct:95,0,5,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:00111110
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:33333333 pgpct:0,0,0,100,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:03100350 pgpct:15,5,0,65,0,15,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:00101000
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:70203407 pgpct:30,0,10,40,15,0,0,5
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:26161122 pgpct:0,60,15,0,0,0,25,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01fffff7 pgpct:70,30,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:16615566 pgpct:0,5,0,0,0,5,90,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012f456f pgpct:10,80,10,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10000000
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:5,60,20,0,0,15,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:0123f567 pgpct:15,40,45,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:35,35,15,0,15,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:01011101
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:77777777 pgpct:0,0,0,0,0,0,0,100
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:55555555 pgpct:0,0,0,0,0,100,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:74774714 pgpct:0,5,0,0,35,0,0,60
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:95,5,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:01101001
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11010100
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:0123ff6f pgpct:45,15,30,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:012ff5f7 pgpct:5,55,25,0,0,10,0,5
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:75,5,0,10,10,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:55,5,35,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:74444774 pgpct:0,0,0,0,10,0,0,90
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:76174051 pgpct:5,5,0,0,5,10,15,60
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:10000011
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:11111111
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:95,5,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:5,65,20,5,0,5,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01f34567 pgpct:20,55,0,0,25,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:65,20,5,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01ffffff pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:67111756 pgpct:0,5,0,0,0,5,25,65
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:40,45,10,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:64115515 pgpct:0,30,0,0,20,15,35,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:60603163 pgpct:5,10,0,75,0,0,10,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:65,35,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:00100111
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:95,5,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:04563153 pgpct:10,20,0,15,25,20,10,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:55,20,10,10,5,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:51612151 pgpct:0,10,5,0,0,10,75,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:77744674 pgpct:0,0,0,0,10,0,5,85
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:01010011
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:35,40,10,0,5,5,5,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:22222222 pgpct:0,0,100,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:77473334 pgpct:0,0,0,15,15,0,0,70
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:01101010
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:14774471 pgpct:0,5,0,0,20,0,0,75
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:67005240 pgpct:5,0,5,0,5,25,40,20
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01f345ff pgpct:75,10,0,10,5,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:11716667 pgpct:0,25,0,0,0,0,35,40
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:42212444 pgpct:0,10,15,0,75,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:80,5,15,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:60,0,20,10,5,0,5,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:0123ff6f pgpct:70,20,5,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:20,80,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:11110001
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:01001110
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:32311661 pgpct:0,10,45,35,0,0,10,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:31437652 pgpct:0,5,5,5,5,5,20,55
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:45542544 pgpct:0,0,5,0,75,20,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:27763630 pgpct:5,0,5,5,0,0,20,65
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:00000000 pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:5,65,15,5,0,0,5,5
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:0123456f pgpct:20,70,0,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:65,25,0,10,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:00010010
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01ff4f6f pgpct:60,30,0,0,10,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:10001011
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:20,75,0,5,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:11111110
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:01101000
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:25,55,5,0,0,15,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01ff4f6f pgpct:75,25,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:50057641 pgpct:15,25,0,0,5,25,10,20
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:f1f345ff pgpct:0,40,0,45,5,10,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:70,5,20,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:0123f5ff pgpct:35,50,15,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:0123ffff pgpct:45,45,5,5,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10110111
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012fffff pgpct:55,25,20,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:01111111
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:55540577 pgpct:10,0,0,0,5,50,0,35
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012f4567 pgpct:70,25,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:63264222 pgpct:0,0,15,15,50,0,20,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:45,20,30,0,0,5,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:20,70,5,0,0,5,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:10112120 pgpct:5,10,85,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:73232733 pgpct:0,0,20,35,0,0,0,45
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11010100
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:00101111
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:60,25,5,5,5,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:01010000
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:46422562 pgpct:0,0,5,0,25,20,50,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:5,0,70,25,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:85,0,15,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:01000000
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:30,30,5,35,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:60446600 pgpct:5,0,0,0,15,0,80,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234ff7 pgpct:15,25,10,50,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:0123456f pgpct:40,20,0,5,30,5,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:00111011
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10111011
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012ff567 pgpct:80,10,5,0,0,5,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234f67 pgpct:35,45,10,0,10,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:0123fff7 pgpct:85,5,5,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:23223233 pgpct:0,0,10,90,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:65,30,0,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:0123ffff pgpct:50,20,30,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:70070007 pgpct:65,0,0,0,0,0,0,35
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10011100
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:31337771 pgpct:0,5,0,5,0,0,0,90
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:0123f56f pgpct:35,25,30,0,0,0,10,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234fff pgpct:90,0,5,5,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:01110111
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:15,20,10,30,20,5,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012fffff pgpct:60,35,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012f4567 pgpct:60,5,20,0,5,10,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012f4f67 pgpct:70,0,10,0,20,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012fffff pgpct:40,40,20,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:95,5,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:00000001
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:10101111
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:55555555 pgpct:0,0,0,0,0,100,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:02041714 pgpct:10,25,25,0,5,0,0,35
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:80,15,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:06010575 pgpct:10,30,0,0,0,5,5,50
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:10010011
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:01001100
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:90,10,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01f3456f pgpct:45,55,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012f45f7 pgpct:60,5,30,0,0,5,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:30,15,45,5,0,5,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01f34f67 pgpct:95,5,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:00001110
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:40,30,15,15,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11001010
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:f12345ff pgpct:0,45,10,20,15,10,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:40,60,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:70,25,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:50507157 pgpct:5,5,0,0,0,10,0,80
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:0,20,0,35,20,0,5,20
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:40,35,0,20,5,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:40,35,5,10,0,0,5,5
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:25,5,15,50,5,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:50,30,5,0,0,0,15,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:0123456f pgpct:20,15,60,0,5,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:15,20,60,5,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:45,45,0,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01ff4f67 pgpct:35,65,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01f34fff pgpct:20,65,0,5,10,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:75,10,15,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:33333333 pgpct:0,0,0,100,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:65,5,10,20,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:0fffff6f pgpct:95,0,0,0,0,0,5,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:80,0,20,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:012fffff pgpct:65,5,30,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:11000101
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:33333333 pgpct:0,0,0,100,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012f456f pgpct:5,30,50,0,10,5,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:80,15,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:30450444 pgpct:15,0,0,10,25,50,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:66506356 pgpct:5,0,0,5,0,5,85,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:20305033 pgpct:15,0,30,40,0,15,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:20,45,10,10,5,5,5,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:01111100
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:35356153 pgpct:0,15,0,30,0,25,30,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:20,75,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:90,10,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:27227377 pgpct:0,0,5,5,0,0,0,90
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:34751454 pgpct:0,10,0,5,20,30,0,35
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:5,65,15,15,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:33433433 pgpct:0,0,0,45,55,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012fffff pgpct:45,50,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:55,40,5,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012f45ff pgpct:30,40,10,0,10,10,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:45,35,0,15,5,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11100111
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11001010
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:44043034 pgpct:5,0,0,20,75,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:50,15,25,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:10,55,5,25,5,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:95,0,5,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:11001111
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:15,40,20,15,10,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:30,30,0,15,25,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:33030330 pgpct:25,0,0,75,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pfc e:1 a:1 w:1 pfcup:11010101
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:00101000
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:34434333 pgpct:0,0,0,5,95,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234f6f pgpct:45,15,30,0,10,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:00000000 pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:20207460 pgpct:10,0,5,0,10,0,25,50
+dcbtool sc eth3 pfc e:1 a:1 w:0 pfcup:10101000
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:72717311 pgpct:0,10,10,50,0,0,0,30
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012345f7 pgpct:90,0,10,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:73024477 pgpct:15,0,20,5,5,0,0,55
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:5,0,0,35,30,30,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:100,0,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:012345f7 pgpct:35,5,10,35,5,10,0,0
+dcbtool sc eth3 pfc e:1 a:0 w:0 pfcup:01101110
+dcbtool sc eth3 pg e:1 a:1 w:1 pgid:01234567 pgpct:90,0,0,10,0,0,0,0
+dcbtool sc eth3 pg e:1 a:1 w:0 pgid:01234567 pgpct:40,0,30,10,15,0,5,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:55,45,0,0,0,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:0,75,5,0,20,0,0,0
+dcbtool sc eth3 pg e:1 a:0 w:0 pgid:01234567 pgpct:35,25,40,0,0,0,0,0
